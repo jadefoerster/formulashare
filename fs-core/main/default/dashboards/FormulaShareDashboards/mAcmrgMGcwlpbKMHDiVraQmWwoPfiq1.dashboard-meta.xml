@@ -291,8 +291,8 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <owner>jade.foerster@ttu.edu.test</owner>
-    <runningUser>jade.foerster@ttu.edu.test</runningUser>
+    <owner>jade.foerster@ttu.edu</owner>
+    <runningUser>jade.foerster@ttu.edu</runningUser>
     <textColor>#000000</textColor>
     <title>FormulaShare Summary</title>
     <titleColor>#000000</titleColor>
